@@ -6,6 +6,12 @@ Vista en el navegador
 
 ![image](https://user-images.githubusercontent.com/77645310/201126189-2dc4be79-23b8-49b5-9bf6-be06486d8bfb.png)
 
+
+Vista del resultado: mancia
+
+![image](https://user-images.githubusercontent.com/77645310/201131483-ec740aed-11cf-43c8-8453-47ca47664498.png)
+
+
 Vista del código
 
 ![image](https://user-images.githubusercontent.com/77645310/201126953-97b4525e-5d83-44bc-8237-8b1aacf91e5f.png)
